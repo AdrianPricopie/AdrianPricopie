@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdrianPricopie?tab=repositories](https://github.com/AdrianPricopie?tab=repositories)
 
-- 📫 How to reach me **adi.pricopie@yahoo.com**
+- 📫 You can contact me on [**linkedin**](https://www.linkedin.com/in/adrian-pricopie-a1a5a8215/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
