@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianpricopie&label=Profile%20views&color=0e75b6&style=flat" alt="adrianpricopie" /> </p>
-<h3 align="center">have a keen interest in technology and automobiles, and I've complemented my studies with IT courses, including automated and manual testing, database management.</h3>
+<h3 align="center">I have a keen interest in technology and automobiles, and I've complemented my studies with IT courses, including automated and manual testing, database management.</h3>
 
 
 
