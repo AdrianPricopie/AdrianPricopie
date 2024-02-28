@@ -15,6 +15,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/AdrianPricopie?tab=repositories](https://github.com/AdrianPricopie?tab=repositories)
 
 - 📫 You can contact me on [**linkedin**](https://www.linkedin.com/in/adrian-pricopie-a1a5a8215/).
+
+- ⚡ Fun Fact **I am funny**
 <p align="left">
 </p>
 
