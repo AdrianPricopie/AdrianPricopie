@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianpricopie&label=Profile%20views&color=0e75b6&style=flat" alt="adrianpricopie" /> </p>
-<h3 align="center">I have a keen interest in technology and automobiles, and I've complemented my studies with IT courses, including automated and manual testing.</h3>
+<h3 align="center">I'm an aspiring programming enthusiast, eager to explore the fascinating world of software development. With boundless enthusiasm and a thirst for learning, I'm ready to dive into projects that will broaden my knowledge and enhance my skills.</h3>
 
 # Step By Step Toward The Goal :dart:
 
