@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Adrian</h1>
 
-<h4 align="left"> I am extremely interested in exploring the field of Software testing putting my experience and commitment to continuous learning to good use. Specifically, I am fascinated by software testing :technologist: and its contribution to enhancing the quality of software products. I am determined to make significant contributions in this field through projects that will improve my practical skills.</h4>
+<h4 align="left"> I am deeply captivated by exploring the field of software testing, and I am determined to leverage my experience and continuous desire for learning towards this goal. I am fascinated by the role of software testing in enhancing the quality of products, and my determination is to make significant contributions in this domain.</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianpricopie&label=Profile%20views&color=0e75b6&style=flat" alt="adrianpricopie" /> </p>
