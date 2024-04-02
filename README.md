@@ -8,7 +8,7 @@
 # Step By Step Toward The Goal :dart:
 
 
-- 🌱 I’m currently learning : JavaScript with **Cypress**
+- 🌱 I’m currently learning : **Java**
 
 - 👯 I’m looking to collaborate on **Automation Testing or Manual testing 💻**
 
