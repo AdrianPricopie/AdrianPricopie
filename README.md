@@ -25,7 +25,7 @@
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira" width="80" height="40"/></a>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/> </a>
 <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/cucumber-logo-A5197CAD09-seeklogo.com.png" alt="Cucumber" width="100" height="40"/></a>
-<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idIq_kF0rb/idZxkJkFIi.svg?updated=1667565307270" alt="Cypress" width="100" height="40"/></a>
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idIq_kF0rb/idZxkJkFIi.svg?updated=1667565307270" alt="Cypress" width="60" height="40"/></a>
 
 </p>
 
