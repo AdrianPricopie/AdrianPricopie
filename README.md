@@ -26,7 +26,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianpricopie&show_icons=true&locale=en&layout=compact" alt="adrianpricopie" /></p>
+<p><a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianpricopie&show_icons=true&locale=en&layout=compact" alt="adrianpricopie" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianpricopie&show_icons=true&locale=en" alt="adrianpricopie" /></p>
 
