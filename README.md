@@ -4,6 +4,13 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianpricopie&label=Profile%20views&color=0e75b6&style=flat" alt="adrianpricopie" /> </p>
+<div align="center">
+  
+[![Linkedin:Adrian-pinto](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-pricopie-a1a5a8215/)
+[![Linkedin:Adrian-pinto](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adrian.pricopie/)
+[![Linkedin:Adrian-pinto](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
+
+</div>
 
 # Step By Step Toward The Goal :dart:
 
@@ -14,7 +21,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdrianPricopie?tab=repositories](https://github.com/AdrianPricopie?tab=repositories)
 
-- 📫 You can contact me on [**linkedin**](https://www.linkedin.com/in/adrian-pricopie-a1a5a8215/).
 
 - ⚡ Fun Fact **I am funny**
 <p align="left">
