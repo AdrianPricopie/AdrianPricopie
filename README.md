@@ -40,5 +40,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianpricopie&show_icons=true&locale=en" alt="adrianpricopie" /></p>
 
+# Courses :books:
+
+| Nr. | Licenses & certifications       | organization                                                                                              |
+|-----|-------------|-----------------------------------------------------------------------------------------------------|
+| 1   | [Cypress-Modern Automation Testing from Scratch + Frameworks](https://www.udemy.com/certificate/UC-54ba25e1-8f17-4592-a285-eb21c7cbe5fe/)   | [![Badge 1](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/cypress-tutorial/?couponCode=KEEPLEARNING)        |
+| 2   | Exemplu 2   | [![Badge 2](https://img.shields.io/badge/Badge%202-Value2-red)](link-catre-profilul-tau-2)         |
+| 3   | Exemplu 3   | [![Badge 3](https://img.shields.io/badge/Badge%203-Value3-green)](link-catre-profilul-tau-3)       |
+| 4   | Exemplu 4   | [![Badge 4](https://img.shields.io/badge/Badge%204-Value4-yellow)](link-catre-profilul-tau-4)      |
 
 
