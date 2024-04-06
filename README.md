@@ -47,8 +47,8 @@
 | 2   | [QA Automation Tester](https://www.udemy.com/certificate/UC-54ba25e1-8f17-4592-a285-eb21c7cbe5fe/) | [![Badge 1](https://img.shields.io/badge/ITFactory-000000?style=for-the-badge&logoColor=white)](https://www.itfactory.ro/) | 
 | 3   | [Pregatire pentru interviul QA (Testare Software)](https://www.udemy.com/certificate/UC-63aa5699-9ad1-4ec6-b198-f949489a84cb/) | [![Badge 1](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/pregatire-pentru-interviul-qa-testare-software/?couponCode=KEEPLEARNING) | 
 | 4   | [Programming Foundations: Software Testing/QA](https://www.linkedin.com/learning/certificates/09d21f167e2aaa149fb0d8f6a6a8ceadb656fcecefd1355465f4c58c3717a1fb) | [![Linkedin:Adrian-pinto](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/programming-foundations-software-testing-qa?trk=learning-certificate_detail_search-card&upsellOrderOrigin=default_guest_learning) |
-| 5   | [Certification Name 5](Certification Link 5) | [![Badge 1](Badge Image Link 5)](Organization Link 5) | 
-| 6   | [Certification Name 6](Certification Link 6) | [![Badge 1](Badge Image Link 6)](Organization Link 6) |
+| 5   |  [Testare manuala si automata (Curs QA)](https://www.udemy.com/certificate/UC-4b67e7bd-905d-4454-9ad6-fe8c3ac3f60f/)  | [![Badge 1](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/testare-manuala-si-automata-curs-qa/?couponCode=KEEPLEARNING) | 
+| 6   | [[Introducere in baze de date (MySQL)](https://www.udemy.com/certificate/UC-0957b61c-2328-427f-a995-7abd575cb078/) | [![Badge 1](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/introducere-in-baze-de-date-mysql/?couponCode=KEEPLEARNING) |
 
 
 
