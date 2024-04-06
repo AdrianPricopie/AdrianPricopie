@@ -42,7 +42,7 @@
 
 # Courses :books:
 
-| Nr. | Licenses & certifications       | organization                                                                                              |
+| Nr. | Licenses & certifications       | organization(link to courses)                                                                                              |
 |-----|-------------|-----------------------------------------------------------------------------------------------------|
 | 1   | [Cypress-Modern Automation Testing from Scratch + Frameworks](https://www.udemy.com/certificate/UC-54ba25e1-8f17-4592-a285-eb21c7cbe5fe/)   | [![Badge 1](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/cypress-tutorial/?couponCode=KEEPLEARNING)        |
 | 2   | [QA Automation Tester](https://www.udemy.com/certificate/UC-54ba25e1-8f17-4592-a285-eb21c7cbe5fe/)   | <a href="https://www.itfactory.ro/" target="_blank" rel="noreferrer"><img src="https://scontent.fias1-2.fna.fbcdn.net/v/t39.30808-6/302145259_463638015775454_6433368898810047050_n.png?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=v81praBJRXsAb4YMkuy&_nc_ht=scontent.fias1-2.fna&oh=00_AfBklHL7Go3Y1VqAoYpDs0rxK8s65iWH-fR5cPdchpo6UQ&oe=66178133" alt="JavaScript" width="40" height="40"/> </a>       |
