@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **Automation Testing or Manual testing 💻**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AdrianPricopie?tab=repositories](https://github.com/AdrianPricopie?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/AdrianPricopie?tab=repositories)
 
 
 - ⚡ Fun Fact **I am funny**
