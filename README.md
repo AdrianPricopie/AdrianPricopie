@@ -64,6 +64,10 @@
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
     <img src="https://asset.brandfetch.io/idIq_kF0rb/idZxkJkFIi.svg?updated=1667565307270" alt="Cypress" width="60" height="40"/>
   </a>
+    </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" width="40" height="40"/>
+  </a>
 </p>
 
 
