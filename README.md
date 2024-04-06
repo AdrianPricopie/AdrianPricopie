@@ -53,7 +53,7 @@
     <img src="https://pngimg.com/uploads/mysql/mysql_PNG11.png" alt="MySQL" width="40" height="40"/>
   </a> 
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira" width="80" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg" alt="Jira" width="60" height="40"/>
   </a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
