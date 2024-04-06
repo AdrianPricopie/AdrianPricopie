@@ -45,7 +45,7 @@
 | Nr. | Licenses & certifications       | organization                                                                                              |
 |-----|-------------|-----------------------------------------------------------------------------------------------------|
 | 1   | [Cypress-Modern Automation Testing from Scratch + Frameworks](https://www.udemy.com/certificate/UC-54ba25e1-8f17-4592-a285-eb21c7cbe5fe/)   | [![Badge 1](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/cypress-tutorial/?couponCode=KEEPLEARNING)        |
-| 2   | Exemplu 2   | [![Badge 2](https://img.shields.io/badge/Badge%202-Value2-red)](link-catre-profilul-tau-2)         |
+| 2   | [QA Automation Tester](https://www.udemy.com/certificate/UC-54ba25e1-8f17-4592-a285-eb21c7cbe5fe/)   | <a href="https://www.itfactory.ro/" target="_blank" rel="noreferrer"><img src="https://scontent.fias1-2.fna.fbcdn.net/v/t39.30808-6/302145259_463638015775454_6433368898810047050_n.png?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=v81praBJRXsAb4YMkuy&_nc_ht=scontent.fias1-2.fna&oh=00_AfBklHL7Go3Y1VqAoYpDs0rxK8s65iWH-fR5cPdchpo6UQ&oe=66178133" alt="JavaScript" width="40" height="40"/> </a>       |
 | 3   | Exemplu 3   | [![Badge 3](https://img.shields.io/badge/Badge%203-Value3-green)](link-catre-profilul-tau-3)       |
 | 4   | Exemplu 4   | [![Badge 4](https://img.shields.io/badge/Badge%204-Value4-yellow)](link-catre-profilul-tau-4)      |
 
