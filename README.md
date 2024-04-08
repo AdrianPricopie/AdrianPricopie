@@ -122,7 +122,7 @@
  
 
 ## My Cypress Projects
-- [Cypress Automation Project](https://github.com/AdrianPricopie/CypressAutomation)
+- [Cypress Automation With page object model and mochawesome-reporter ](https://github.com/AdrianPricopie/CypressAutomation)
 - [Project Testing With Cypress - BDD Page Object Model Frameworks](https://github.com/AdrianPricopie/ProjectTesting-With-Cypress-BDD-Page-object-model-frameworks)
 
 ## My API Testing projects
