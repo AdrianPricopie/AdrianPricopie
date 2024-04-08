@@ -116,7 +116,7 @@
   - Jira(release,story,epic,task,bug report,test case,project,zepyr squad plugin,cycle summary,Traceability Matrix,execution report and others)
   - black box testing,white box testing ,gray box testing
   - html basics
-  - waterfall and agile metodologies
+  - waterfall and agile methodology
   - concepts in mobile application testing
  
  
