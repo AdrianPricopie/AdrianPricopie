@@ -15,12 +15,13 @@
 # Step By Step Toward The Goal :dart:
 
 
-- 🌱 I’m currently learning : **Java**
-
 - 👯 I’m looking to collaborate on **Automation Testing or Manual testing 💻**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/AdrianPricopie?tab=repositories)
 
+- 🌱 Always open to learning and exploration, I am actively seeking opportunities to contribute to interesting projects and share my knowledge in a collaborative and innovative environment.
+
+- 🔍 Passionate and dedicated tester with a love for software testing and quality assurance. I have devoted a considerable amount of time to both theoretical and practical learning in automated and manual testing, working with various technologies.
 
 - ⚡ Fun Fact **I am funny**
 <p align="left">
