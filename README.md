@@ -77,14 +77,58 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianpricopie&show_icons=true&locale=en" alt="adrianpricopie" /></p>
 
 # Courses :books:
-| Nr. | Licenses & certifications       | Organization (link to courses)                                                                                              | 
-|-----|--------------------------------|----------------------------------------------------------------------------------------------------------------------------| 
-| 1   | [Cypress-Modern Automation Testing from Scratch + Frameworks](https://www.udemy.com/certificate/UC-54ba25e1-8f17-4592-a285-eb21c7cbe5fe/) | [![Badge 1](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/cypress-tutorial/?couponCode=KEEPLEARNING) | 
-| 2   | [QA Automation Tester](https://github.com/AdrianPricopie/Certification/blob/main/Screenshot%202024-04-06%20at%2022.21.42.png) | [![Badge 1](https://img.shields.io/badge/ITFactory-000000?style=for-the-badge&logoColor=white)](https://www.itfactory.ro/) | 
-| 3   | [Pregatire pentru interviul QA (Testare Software)](https://www.udemy.com/certificate/UC-63aa5699-9ad1-4ec6-b198-f949489a84cb/) | [![Badge 1](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/pregatire-pentru-interviul-qa-testare-software/?couponCode=KEEPLEARNING) | 
-| 4   | [Programming Foundations: Software Testing/QA](https://www.linkedin.com/learning/certificates/09d21f167e2aaa149fb0d8f6a6a8ceadb656fcecefd1355465f4c58c3717a1fb) | [![Linkedin:Adrian-pinto](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/programming-foundations-software-testing-qa?trk=learning-certificate_detail_search-card&upsellOrderOrigin=default_guest_learning) |
-| 5   |  [Testare manuala si automata (Curs QA)](https://www.udemy.com/certificate/UC-4b67e7bd-905d-4454-9ad6-fe8c3ac3f60f/)  | [![Badge 1](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/testare-manuala-si-automata-curs-qa/?couponCode=KEEPLEARNING) | 
-| 6   | [Introducere in baze de date (MySQL)](https://www.udemy.com/certificate/UC-0957b61c-2328-427f-a995-7abd575cb078/) | [![Badge 1](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/introducere-in-baze-de-date-mysql/?couponCode=KEEPLEARNING) |
+| Nr. | Licenses & Certifications       | Organization (Link to Courses)                                                                                              | What I Learned                                                                                                                                                   | 
+|-----|--------------------------------|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| 1   | [Cypress-Modern Automation Testing from Scratch + Frameworks](https://www.udemy.com/certificate/UC-54ba25e1-8f17-4592-a285-eb21c7cbe5fe/)  | [![Badge 1](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/cypress-tutorial/?couponCode=KEEPLEARNING) | - Learned Cypress fundamentals and modern automation testing techniques.                                                                                       | 
+| 2   | [QA Automation Tester](https://github.com/AdrianPricopie/Certification/blob/main/Screenshot%202024-04-06%20at%2022.21.42.png) | [![Badge 1](https://img.shields.io/badge/ITFactory-000000?style=for-the-badge&logoColor=white)](https://www.itfactory.ro/) | - Completed QA Automation Tester certification.                                                                                                                  | 
+| 3   | [Pregatire pentru interviul QA (Testare Software)](https://www.udemy.com/certificate/UC-63aa5699-9ad1-4ec6-b198-f949489a84cb/) | [![Badge 1](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/pregatire-pentru-interviul-qa-testare-software/?couponCode=KEEPLEARNING) | - Prepared for QA interviews and gained knowledge about software testing.                                                                                       | 
+| 4   | [Programming Foundations: Software Testing/QA](https://www.linkedin.com/learning/certificates/09d21f167e2aaa149fb0d8f6a6a8ceadb656fcecefd1355465f4c58c3717a1fb) | [![Linkedin:Adrian-pinto](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/programming-foundations-software-testing-qa?trk=learning-certificate_detail_search-card&upsellOrderOrigin=default_guest_learning) | - Gained programming foundations and knowledge about software testing.                                                                                            |
+| 5   | [Testare manuala si automata (Curs QA)](https://www.udemy.com/certificate/UC-4b67e7bd-905d-4454-9ad6-fe8c3ac3f60f/)  | [![Badge 1](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/testare-manuala-si-automata-curs-qa/?couponCode=KEEPLEARNING) | - Completed a course on manual and automated testing.                                                                                                           | 
+| 6   | [Introducere in baze de date (MySQL)](https://www.udemy.com/certificate/UC-0957b61c-2328-427f-a995-7abd575cb078/) | [![Badge 1](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/introducere-in-baze-de-date-mysql/?couponCode=KEEPLEARNING) | - Gained an introduction to databases, specifically MySQL.                                                                                                       |
+
+## Additional Learning
+- **JavaScript Fundamentals**:
+  - Var, let, const
+  - Objects and Object-Oriented Programming (OOP)
+  - Control Flow (if, else, switch)
+  - Arrays, Functions, Arrow Functions, Anonymous Functions
+  - Map, Filter, and more
+  
+- **Introduction to Cypress**:
+  - Locators
+  - Handling Invisible Elements
+  - Web Applications Practice
+  - Handling Web Controls UI
+  - Cypress Framework Page Object Model (POM)
+  - Behavior-Driven Development (BDD)
+  - Building npm scripts and integration with Jenkins
+  - Cypress Databases Integrations and others
+ 
+- **Introduction to Software testing**:
+  - principles of testing
+  - QA(Quality assurance) vs QC(Quality control)
+  - Fault vs failure;Regression Testing;Retesting;
+  - Functional testing and non functional testing(Performance testing,stress testing,spike testing,and others)
+  - Verification and Validation
+  - testing levels(Unit Testing,Integration Testing,System Testing,Acceptance Testing,Alpha Testing și Beta Testing,Regression Testing)
+  - Test plan
+  - dynamic testing and static testing
+  - Jira(release,story,epic,task,bug report,test case,project,zepyr squad plugin,cycle summary,Traceability Matrix,execution report and others)
+  - black box testing,white box testing ,gray box testing
+  - html basics
+  - waterfall and agile metodologies
+  - concepts in mobile application testing
+ 
+ 
+
+## My Cypress Projects
+- [Cypress Automation Project](https://github.com/AdrianPricopie/CypressAutomation)
+- [Project Testing With Cypress - BDD Page Object Model Frameworks](https://github.com/AdrianPricopie/ProjectTesting-With-Cypress-BDD-Page-object-model-frameworks)
+
+## My API Testing projects
+- [API testing spotify website](https://github.com/AdrianPricopie/API-Testing) with postman and newman tool
+- [API testing for simple book](https://github.com/AdrianPricopie/ProjectTesting-With-Cypress-BDD-Page-object-model-frameworks) with python tool
+
 
 
 
