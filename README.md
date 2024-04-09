@@ -135,6 +135,9 @@
   - concepts in mobile application testing
  
  
+## Test automation projects with selenium and python
+-[Automated Testing Project for Flip.ro Website](https://github.com/AdrianPricopie/PythonUnitTestPOMBasedProject)
+-[Automated Testing Project for Evomag.ro Website](https://github.com/AdrianPricopie/ProjectTesting-With-Cypress-BDD-Page-object-model-frameworks)
 
 ## My Cypress Projects
 - [Cypress Automation with page object model and mochawesome-reporter ](https://github.com/AdrianPricopie/CypressAutomation)
