@@ -142,7 +142,12 @@
 
 ## My API Testing projects
 - [API testing spotify website](https://github.com/AdrianPricopie/API-Testing) with postman and newman tool
-- [API testing for simple book](https://github.com/AdrianPricopie/Python-API-Testing-) with python 
+- [API testing for simple book](https://github.com/AdrianPricopie/Python-API-Testing-) with python
+
+## MySQL Databases project
+
+- [Database Project for Social Media](https://github.com/AdrianPricopie/MySQL-Project) -> in this project I used all the SQL knowledge gained throught the Software Testing course and apply them in practice.
+
 
 
 
