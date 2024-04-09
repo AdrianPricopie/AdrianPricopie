@@ -127,7 +127,7 @@
 
 ## My API Testing projects
 - [API testing spotify website](https://github.com/AdrianPricopie/API-Testing) with postman and newman tool
-- [API testing for simple book](https://github.com/AdrianPricopie/ProjectTesting-With-Cypress-BDD-Page-object-model-frameworks) with python 
+- [API testing for simple book](https://github.com/AdrianPricopie/Python-API-Testing-) with python 
 
 
 
