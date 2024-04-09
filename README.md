@@ -109,7 +109,7 @@
    - Cypress Framework Best Practises
    - Cypress Fixtures and Custom commands
    - Page object Design pattern with Cypress tests
-   - Test Parameterization and Data driven with Cypre
+   - Test Parameterization and Data driven 
    - Configuration properties and environmental variables discussion
    - Cypress Dashboard features with video recording and Screenshots
    - Building npm scripts and Integrating Cypress framework into Jenkins
