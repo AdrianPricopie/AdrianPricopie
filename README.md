@@ -148,7 +148,7 @@
 
 - [Database Project for Social Media](https://github.com/AdrianPricopie/MySQL-Project) -> In this project I used all the SQL knowledge gained throught the Software Testing course and apply them in practice.
 
-## Project testing Manual
+## Manual project testing
 
 - [Guru99 Banking Project](https://github.com/AdrianPricopie/Manual-Testing-Project-in-Jira) - > In this project you can find how I created a test plan,test cases,bugs report and working with jira tool
 
