@@ -159,7 +159,7 @@
 
 - [Guru99 Banking Project](https://github.com/AdrianPricopie/Manual-Testing-Project-in-Jira) - > In this project you can find how I created a test plan,test cases,bugs report and working with jira tool
 
-# Blogs 📰 / Groups / Youtubers I Follow
+# Blogs 📰 / Groups / Youtubers that  I Follow
 
 - [BlogDeIt](https://www.blogdeit.ro/)
 - [VlogDeIt](https://www.youtube.com/@VlogDeIT)
