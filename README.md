@@ -149,6 +149,7 @@
 ## My API Testing projects
 - [API testing spotify website](https://github.com/AdrianPricopie/API-Testing) with postman and newman tool
 - [API testing for simple book](https://github.com/AdrianPricopie/Python-API-Testing-) with python
+- [API Testing for star-wars GrapQL](https://github.com/AdrianPricopie/API-Testing-Star-Wars-GraphQL) with postman and newman
 
 ## MySQL Databases project
 
