@@ -114,6 +114,7 @@
 ## My Cypress Projects
 - [Cypress Automation with page object model and mochawesome-reporter ](https://github.com/AdrianPricopie/CypressAutomation)
 - [Project Testing With Cypress - BDD Page Object Model Frameworks](https://github.com/AdrianPricopie/ProjectTesting-With-Cypress-BDD-Page-object-model-frameworks)
+- [Cypress project testing with mailosaur and jenkins](https://github.com/AdrianPricopie/CypressFashionDays)
 
 ## My API Testing projects
 - [API testing spotify website](https://github.com/AdrianPricopie/API-Testing) with postman and newman tool
