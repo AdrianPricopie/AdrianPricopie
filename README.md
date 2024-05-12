@@ -106,7 +106,9 @@
   - waterfall and agile methodologies
   - concepts in mobile application testing
  
- 
+## Mobile Testing 
+-[Altex Mobile Testing Project with Appium](https://github.com/AdrianPricopie/MobileTestingAppium)
+
 ## Automation testing  projects with selenium and python
 - [Automated Testing Project for Flip.ro Website](https://github.com/AdrianPricopie/PythonUnitTestPOMBasedProject)
 - [ParaBank Project Testing automation](https://github.com/AdrianPricopie/Project-Testing-with-BDD)
