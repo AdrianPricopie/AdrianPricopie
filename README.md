@@ -106,7 +106,7 @@
   - waterfall and agile methodologies
   - concepts in mobile application testing
  
-# Personal Blog
+## Personal Blog :newspaper:  :black_nib:
 
 - [My blogs](https://adrianpricopie.ro/services/)
  
