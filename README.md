@@ -106,6 +106,10 @@
   - waterfall and agile methodologies
   - concepts in mobile application testing
  
+# Personal Blog
+
+- [My blogs](https://adrianpricopie.ro/services/)
+ 
 ## Mobile Testing 
 - [Altex Mobile Testing Project with Appium](https://github.com/AdrianPricopie/MobileTestingAppium)
 
