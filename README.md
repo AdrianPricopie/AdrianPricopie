@@ -30,7 +30,7 @@
 <p align="left">
 </p>
 
-# 🤵 My Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+# 🤵 My Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -44,6 +44,7 @@
   </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
@@ -68,12 +69,10 @@
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
     <img src="https://asset.brandfetch.io/idIq_kF0rb/idZxkJkFIi.svg?updated=1667565307270" alt="Cypress" width="60" height="40"/>
   </a>
-    </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" width="40" height="40"/>
   </a>
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianpricopie&show_icons=true&locale=en&layout=compact" alt="adrianpricopie" /> </p>
 
@@ -113,30 +112,24 @@
 
 - [My blogs](https://adrianpricopie.ro/services/)
  
-## Mobile Testing 
-- [Altex Mobile Testing Project with Appium](https://github.com/AdrianPricopie/MobileTestingAppium)
-
-## Automation testing  projects with selenium and python
-- [Automated Testing Project for Flip.ro Website](https://github.com/AdrianPricopie/PythonUnitTestPOMBasedProject)
-- [ParaBank Project Testing automation](https://github.com/AdrianPricopie/Project-Testing-with-BDD)
-
-## My Cypress Projects
-- [Cypress Automation with page object model and mochawesome-reporter ](https://github.com/AdrianPricopie/CypressAutomation)
-- [Project Testing With Cypress - BDD Page Object Model Frameworks](https://github.com/AdrianPricopie/ProjectTesting-With-Cypress-BDD-Page-object-model-frameworks)
-- [Cypress project testing with mailosaur and jenkins](https://github.com/AdrianPricopie/CypressFashionDays)
-
-## My API Testing projects
-- [API testing spotify website](https://github.com/AdrianPricopie/API-Testing) with postman and newman tool
-- [API testing for simple book](https://github.com/AdrianPricopie/Python-API-Testing-) with python
-- [API Testing for star-wars GrapQL](https://github.com/AdrianPricopie/API-Testing-Star-Wars-GraphQL) with postman and newman
-
-## MySQL Databases project
-
-- [Database Project for Social Media](https://github.com/AdrianPricopie/MySQL-Project) -> In this project I used all the SQL knowledge gained throught the Software Testing course and apply them in practice.
-
-## Manual project testing
-
-- [Guru99 Banking Project](https://github.com/AdrianPricopie/Manual-Testing-Project-in-Jira) - > In this project you can find how I created a test plan,test cases,bugs report and working with jira tool
+## Projects 🛠️
+- **Mobile Testing Projects 📱:**
+  - [Altex Mobile Testing Project with Appium](https://github.com/AdrianPricopie/MobileTestingAppium)
+- **Automation Testing Projects:**
+  - [Automated Testing Project for Flip.ro Website](https://github.com/AdrianPricopie/PythonUnitTestPOMBasedProject)
+  - [ParaBank Project Testing Automation](https://github.com/AdrianPricopie/Project-Testing-with-BDD)
+- **Cypress Projects:**
+  - [Cypress Automation with Page Object Model and Mochawesome Reporter](https://github.com/AdrianPricopie/CypressAutomation)
+  - [Project Testing With Cypress - BDD Page Object Model Frameworks](https://github.com/AdrianPricopie/ProjectTesting-With-Cypress-BDD-Page-object-model-frameworks)
+  - [Cypress Project Testing with Mailosaur and Jenkins](https://github.com/AdrianPricopie/CypressFashionDays)
+- **API Testing Projects:**
+  - [API Testing Spotify Website](https://github.com/AdrianPricopie/API-Testing) with Postman and Newman tool
+  - [API Testing for Simple Book](https://github.com/AdrianPricopie/Python-API-Testing-) with Python
+  - [API Testing for Star-Wars GraphQL](https://github.com/AdrianPricopie/API-Testing-Star-Wars-GraphQL) with Postman and Newman
+- **MySQL Database Project:**
+  - [Social Media Database Project](https://github.com/AdrianPricopie/MySQL-Project)
+- **Manual Testing Project:**
+  - [Guru99 Banking Project](https://github.com/AdrianPricopie/Manual-Testing-Project-in-Jira)
 
 # Blogs 📰 / Groups / Youtubers that  I Follow
 
