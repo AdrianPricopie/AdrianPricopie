@@ -108,7 +108,7 @@
   - concepts in mobile application testing
 
 ## If you want to see how i write some test scenario in trello :
-- [Test scenario for search functionality from youtube](https://github.com/AdrianPricopie/AdrianPricopie/blob/main/My%20Test%20scenario%20search%20functionality%20from%20youtube.pdf)
+- [Test scenario for search functionality youtube](https://github.com/AdrianPricopie/AdrianPricopie/blob/main/My%20Test%20scenario%20search%20functionality%20from%20youtube.pdf)
 
  
 ## Personal Blog :newspaper:  :black_nib:
