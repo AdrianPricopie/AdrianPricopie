@@ -93,6 +93,11 @@
 | 11   | [JavaScript Unit Testing](https://www.codecademy.com/profiles/py4928557372/certificates/f4276e8c08a3ba174ef0147deb0c3013) | [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/learn/learn-javascript-unit-testing)| -TDD With Mocha,Automate and Organize Tests,Write Expressive Tests |
 
 
+## If you want to see how i write some test scenario :
+- [Test scenario for search functionality from youtube](https://github.com/AdrianPricopie/AdrianPricopie/blob/main/My%20Test%20scenario%20search%20functionality%20from%20youtube.pdf)
+
+
+
 - **Introduction to Software testing**:
   - principles of testing
   - QA(Quality assurance) vs QC(Quality control)
