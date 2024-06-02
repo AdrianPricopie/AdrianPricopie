@@ -10,7 +10,7 @@
 [![Linkedin:Adrian-pinto](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adrian.pricopie/)
 [![Linkedin:Adrian-pinto](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://adrianpricopie.ro/)
 <a href="https://github.com/AdrianPricopie/AdrianPricopie/blob/main/Adrian%20Pricopie%20Resume.pdf" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/resume-icon-1586x2048-icyvzr1b.png" alt="Resume" width="30" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/8101/8101319.png" alt="Resume" width="30" height="30"/>
   </a>
 
 </div>
