@@ -25,8 +25,11 @@
 - 🌱 Always open to learning and exploration, I am actively seeking opportunities to contribute to interesting projects and share my knowledge in a collaborative and innovative environment.
 
 - 🔍 Passionate and dedicated tester with a love for software testing and quality assurance. I have devoted a considerable amount of time to both theoretical and practical learning in automated and manual testing, working with various technologies.
+  
+- 📚 Current Studies: Currently studying the [Playwright](https://playwright.dev/) automation tool.
 
 - ⚡ Fun Fact **I am funny**
+  
 <p align="left">
 </p>
 
