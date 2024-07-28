@@ -26,7 +26,7 @@
 
 - 🔍 Passionate and dedicated tester with a love for software testing and quality assurance. I have devoted a considerable amount of time to both theoretical and practical learning in automated and manual testing, working with various technologies.
   
-- 📚 Current Studies: Currently studying the [Playwright](https://playwright.dev/) automation tool.
+- 📚 Currently studying the [Playwright](https://playwright.dev/) automation tool.
 
 - ⚡ Fun Fact **I am funny**
   
