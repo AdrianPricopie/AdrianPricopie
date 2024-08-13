@@ -9,7 +9,7 @@
 [![Linkedin:Adrian-pinto](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-pricopie-a1a5a8215/)
 [![Linkedin:Adrian-pinto](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adrian.pricopie/)
 [![Linkedin:Adrian-pinto](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://adrianpricopie.ro/)
-<a href="https://github.com/AdrianPricopie/AdrianPricopie/blob/main/Adrian_Pricopie_QA_Resume.pdf%20(1)%20(1).pdf" target="_blank" rel="noreferrer">
+<a href="https://github.com/AdrianPricopie/AdrianPricopie/blob/main/Adrian_Pricopie_QA_Resume.pdf%20(2).pdf" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/8101/8101319.png" alt="Resume" width="30" height="30"/>
   </a>
 
