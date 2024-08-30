@@ -64,7 +64,6 @@
     <a href="https://www.java.com/en/"> <img src="https://skillicons.dev/icons?i=java" /> </a>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianpricopie&show_icons=true&locale=en&layout=compact" alt="adrianpricopie" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianpricopie&show_icons=true&locale=en" alt="adrianpricopie" /></p>
 
 # Courses :books:
