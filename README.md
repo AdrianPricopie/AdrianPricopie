@@ -35,7 +35,7 @@
 <p align="left">
 </p>
 
-# 🤵 My Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
+# 🛠️ Technical Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Jira-blue?logo=Jira&color=blue">
