@@ -1,4 +1,6 @@
-<h1 align="left">Hi 👋, I'm Adrian</h1>
+
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&center=true&random=false&width=650&height=250&lines=Hello+there%F0%9F%91%8B;I'm+Adrian!" alt="Typing SVG" /></a>
 
 <h4 align="left"> I am deeply captivated by exploring the field of software testing, and I am determined to leverage my experience and continuous desire for learning towards this goal. I am fascinated by the role of software testing in enhancing the quality of products, and my determination is to make significant contributions in this domain.</h4>
 
@@ -35,50 +37,34 @@
 
 # 🤵 My Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://pngimg.com/uploads/mysql/mysql_PNG11.png" alt="MySQL" width="40" height="40"/>
-  </a> 
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg" alt="Jira" width="60" height="40"/>
-  </a>
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/C/cucumber-logo-A5197CAD09-seeklogo.com.png" alt="Cucumber" width="100" height="40"/>
-  </a>
-  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-    <img src="https://asset.brandfetch.io/idIq_kF0rb/idZxkJkFIi.svg?updated=1667565307270" alt="Cypress" width="60" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" width="40" height="40"/>
-  </a>
+<p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/Jira-blue?logo=Jira&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Trello-blue?logo=trello&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/JSON-blue?logo=JSON&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/XML-blue?logo=XML&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/SQL-blue?logo=SQL">
+<img alt="Static Badge" src="https://img.shields.io/badge/Qase-purple?logo=QASE">
+<img alt="Static Badge" src="https://img.shields.io/badge/Testrail-purple?logo=Testrail&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/PyTest-purple?logo=PyTest&color=white">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianpricopie&show_icons=true&locale=en&layout=compact" alt="adrianpricopie" /> </p>
+<div align="center">
+    <a href="https://git-scm.com/"> <img src="https://skillicons.dev/icons?i=html" /> </a>
+    <a href="https://git-scm.com/"> <img src="https://skillicons.dev/icons?i=css" /> </a>
+    <a href="https://code.visualstudio.com/"> <img src="https://skillicons.dev/icons?i=vscode" /> </a>
+    <a href="https://github.com/"> <img src="https://skillicons.dev/icons?i=github" /> </a>
+    <a href="https://git-scm.com/"> <img src="https://skillicons.dev/icons?i=git" /> </a>
+    <a href="https://www.python.org/"> <img src="https://skillicons.dev/icons?i=python" /> </a>
+    <a href="https://www.postman.com/"> <img src="https://skillicons.dev/icons?i=postman" /> </a>
+    <a href="https://selenium-python.readthedocs.io/index.html"> <img src="https://skillicons.dev/icons?i=selenium" /> </a>
+    <a href="https://www.mysql.com/"> <img src="https://skillicons.dev/icons?i=mysql" /> </a>
+    <a href="https://www.jenkins.io/"> <img src="https://skillicons.dev/icons?i=jenkins" /> </a>
+    <a href="https://www.cypress.io/"> <img src="https://skillicons.dev/icons?i=cypress" /> </a>
+    <a href="https://nodejs.org/en"> <img src="https://skillicons.dev/icons?i=javascript" /> </a>
+    <a href="https://www.java.com/en/"> <img src="https://skillicons.dev/icons?i=java" /> </a>
+</div>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianpricopie&show_icons=true&locale=en&layout=compact" alt="adrianpricopie" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianpricopie&show_icons=true&locale=en" alt="adrianpricopie" /></p>
 
 # Courses :books:
