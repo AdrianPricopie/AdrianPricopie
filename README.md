@@ -49,8 +49,8 @@
 </p>
 
 <div align="center">
-    <a href="https://git-scm.com/"> <img src="https://skillicons.dev/icons?i=html" /> </a>
-    <a href="https://git-scm.com/"> <img src="https://skillicons.dev/icons?i=css" /> </a>
+    <a href="https://www.w3schools.com/html/"> <img src="https://skillicons.dev/icons?i=html" /> </a>
+    <a href="https://www.w3schools.com/css/"> <img src="https://skillicons.dev/icons?i=css" /> </a>
     <a href="https://code.visualstudio.com/"> <img src="https://skillicons.dev/icons?i=vscode" /> </a>
     <a href="https://github.com/"> <img src="https://skillicons.dev/icons?i=github" /> </a>
     <a href="https://git-scm.com/"> <img src="https://skillicons.dev/icons?i=git" /> </a>
