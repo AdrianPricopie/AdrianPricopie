@@ -62,7 +62,7 @@
     <a href="https://www.cypress.io/"> <img src="https://skillicons.dev/icons?i=cypress" /> </a>
     <a href="https://nodejs.org/en"> <img src="https://skillicons.dev/icons?i=javascript" /> </a>
     <a href="https://www.java.com/en/"> <img src="https://skillicons.dev/icons?i=java" /> </a>
-    <a href="https://www.java.com/en/"> <img src="https://skillicons.dev/icons?i=graphql" /> </a>
+    <a href="https://graphql.org/"> <img src="https://skillicons.dev/icons?i=graphql" /> </a>
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianpricopie&show_icons=true&locale=en" alt="adrianpricopie" /></p>
